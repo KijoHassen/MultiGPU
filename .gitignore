@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+config/config.json
+config/MultiGPU_config.json
+logs/
+temp/
+MultiGPU.exe
