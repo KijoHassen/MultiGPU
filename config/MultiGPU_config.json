@@ -1,7 +1,0 @@
-{
-  "exe_first": "D:/ProgramFiles/Blender/Blender5.2/blender_5.2_gpu0.exe",
-  "exe_second": "D:/ProgramFiles/Blender/Blender5.2/blender_5.2_gpu1.exe",
-  "ratio_first": 60.0,
-  "ratio_second": 40.0,
-  "fix_encoding": true
-}
